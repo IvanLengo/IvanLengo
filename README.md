@@ -77,7 +77,7 @@ Sensing • Control Systems • Embedded Systems • AI
 <br>
 
 <div style="width:220px;">
-  <a href="docs/PROJECTS.md">
+  <a href="docs/projects.md">
     <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
   </a>
 </div>
