@@ -71,7 +71,7 @@ Sensing • Control Systems • Embedded Systems • AI
 </td>
 
 <!-- PROJECTS -->
-<td width="420" valign="top" align="center">
+<td width="260" valign="top" align="center">
 
 <h3>🧪 Projects</h3>
 <br>
