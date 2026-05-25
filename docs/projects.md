@@ -22,10 +22,11 @@
 
 | Project | Area | Status | Description |
 | --- | --- | --- | --- |
-| Embedded Sensor System | Embedded Systems | Planned | Sensor acquisition, signal conditioning, and PC communication system. |
+| Embedded Sensor System | Embedded Systems | Planned | Sensor acquisition, signal conditioning, and PC communication experiments. |
 | Control System Simulator | Control Engineering | Planned | Interactive simulations and control analysis experiments. |
 | AI Signal Processing Toolkit | AI / DSP | Planned | Exploring signal analysis and machine learning workflows. |
 | HP Prime RF Calculator | RF Engineering | In Progress | RF and microwave calculation utilities for engineering use. |
 | Stability Analysis of LTV Systems | Control Theory | Thesis / Research | Work related to stability analysis of linear time-varying systems. |
-| Personal Portfolio Website | Web Development | Planned | Technical portfolio and project showcase website. |
+| Personal Portfolio Website | Web Development | Planned | Technical portfolio and engineering project showcase website. |
 | Embedded AI Experiments | Embedded AI | Planned | Combining sensing systems with lightweight AI models. |
+| [TU Graz Master Degree Planner](LINK_HERE) | Academic Planning Tool | Completed | Offline planning tool for TU Graz students featuring semester difficulty estimation, ECTS tracking, and subject organization. |
