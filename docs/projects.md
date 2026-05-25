@@ -22,11 +22,9 @@
 
 | Project | Area | Status | Description |
 | --- | --- | --- | --- |
-| Embedded Sensor System | Embedded Systems | Planned | Sensor acquisition, signal conditioning, and PC communication experiments. |
-| Control System Simulator | Control Engineering | Planned | Interactive simulations and control analysis experiments. |
-| AI Signal Processing Toolkit | AI / DSP | Planned | Exploring signal analysis and machine learning workflows. |
-| HP Prime RF Calculator | RF Engineering | In Progress | RF and microwave calculation utilities for engineering use. |
-| Stability Analysis of LTV Systems | Control Theory | Thesis / Research | Work related to stability analysis of linear time-varying systems. |
-| Personal Portfolio Website | Web Development | Planned | Technical portfolio and engineering project showcase website. |
 | Embedded AI Experiments | Embedded AI | Planned | Combining sensing systems with lightweight AI models. |
+| Embedded Sensor System | Embedded Systems | Planned | Sensor acquisition, signal conditioning, and PC communication experiments. |
+| Industrial PLC & Automation Experiments | PLC / Industrial Automation | In Progress | Exploring Siemens-based automation systems, industrial control workflows, sensor integration, and feedback/control loop concepts. |
+| 3D Printing & Modeling Experiments | 3D Printing / CAD | In Progress | Working with Blender, print optimization, slicing configurations, and iterative 3D printing experiments. |
+| Unreal Engine 5 Cinematic Experiments | Unreal Engine / 3D Design | In Progress | Exploring cinematic scene design, environment modeling, lighting, rendering, and real-time visual experimentation in Unreal Engine 5. |
 | [TU Graz Master Degree Planner](https://github.com/IvanLengo/TU-Graz-Master-Degree-Planner) | Academic Planning Tool | Completed | Offline planning tool for TU Graz students featuring semester difficulty estimation, ECTS tracking, and subject organization. |
