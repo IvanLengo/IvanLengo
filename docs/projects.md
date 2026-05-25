@@ -29,4 +29,4 @@
 | Stability Analysis of LTV Systems | Control Theory | Thesis / Research | Work related to stability analysis of linear time-varying systems. |
 | Personal Portfolio Website | Web Development | Planned | Technical portfolio and engineering project showcase website. |
 | Embedded AI Experiments | Embedded AI | Planned | Combining sensing systems with lightweight AI models. |
-| [TU Graz Master Degree Planner](LINK_HERE) | Academic Planning Tool | Completed | Offline planning tool for TU Graz students featuring semester difficulty estimation, ECTS tracking, and subject organization. |
+| [TU Graz Master Degree Planner](https://github.com/IvanLengo/TU-Graz-Master-Degree-Planner) | Academic Planning Tool | Completed | Offline planning tool for TU Graz students featuring semester difficulty estimation, ECTS tracking, and subject organization. |
