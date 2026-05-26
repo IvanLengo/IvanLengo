@@ -27,5 +27,5 @@
 | Industrial PLC & Automation Experiments | PLC / Industrial Automation | In Progress | Exploring Siemens-based automation systems, industrial control workflows, sensor integration, and feedback/control loop concepts. |
 | Unreal Engine 5 Cinematic Experiments | Unreal Engine / 3D Design | In Progress | Exploring cinematic scene design, environment modeling, lighting, rendering, and real-time visual experimentation in Unreal Engine 5. |
 | [3D Printing & Modeling Experiments](https://github.com/IvanLengo/3D-Printing-Modeling-Experiments) | 3D Printing / CAD | In Progress | Working with Blender, print optimization, slicing configurations, and iterative 3D printing experiments.|
-| Arduino Code Lock Interface | Embedded Systems / Arduino | Completed | Arduino-based electronic code lock with an interactive touchscreen interface and basic embedded control logic. |
+| Arduino Projects | Embedded Systems / Arduino | Completed | Small Arduino projects and basic embedded control logic. |
 | [TU Graz Master Degree Planner](https://github.com/IvanLengo/TU-Graz-Master-Degree-Planner) | Academic Planning Tool | Completed | Offline planning tool for TU Graz students featuring semester difficulty estimation, ECTS tracking, and subject organization. |
