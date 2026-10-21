@@ -22,9 +22,8 @@
 
 | Project | Area | Status | Description |
 | --- | --- | --- | --- |
-| Embedded AI Experiments | Embedded AI | Planned | Combining sensing systems with lightweight AI models. |
-| Embedded Sensor System | Embedded Systems | Planned | Extension to previous Embedded-System Projects: Sensor acquisition, signal conditioning, and PC communication experiments. |
-| Industrial PLC & Automation Experiments | PLC / Industrial Automation | In Progress | Exploring Siemens-based automation systems, industrial control workflows, sensor integration, and feedback/control loop concepts. |
+| Embedded Sensing & TinyML | Embedded Systems / Signal Processing / TinyML | In Progress | Sensor data acquisition, signal processing, and on-device machine learning using the Arduino Nano 33 BLE Sense Rev2. |
+| Industrial PLC & Automation Experiments | PLC / Industrial Automation | Planned | Exploring Siemens-based automation systems, industrial control workflows, sensor integration, and feedback/control loop concepts. |
 | Unreal Engine 5 Cinematic Experiments | Unreal Engine / 3D Design | In Progress | Exploring cinematic scene design, environment modeling, lighting, rendering, and real-time visual experimentation in Unreal Engine 5. |
 | [3D Printing & Modeling Experiments](https://github.com/IvanLengo/3D-Printing-Modeling-Experiments) | 3D Printing / CAD | In Progress | Working with Blender, print optimization, slicing configurations, and iterative 3D printing experiments.|
 | [Embedded-System Projects](https://github.com/IvanLengo/Embedded-Systems-Projects) | Embedded Systems / Arduino | Completed | Small Arduino projects and basic embedded control logic. |
